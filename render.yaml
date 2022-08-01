@@ -4,5 +4,5 @@ services:
     env: docker
     region: ohio
     plan: starter
-    branch: main
+    branch: disable-test
     autoDeploy: true
